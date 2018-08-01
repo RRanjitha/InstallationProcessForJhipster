@@ -1,0 +1,19 @@
+Installation of Git in Admin Login:
+admin123@admin123-Vostro-3560:~$ sudo apt-get install git
+
+admin123@admin123-Vostro-3560:/$ git --version
+git version 2.7.4
+
+
+Create Repository in Git
+
+THIS HAVE TO GIVE IT INTO CMD:
+Git init 
+readme file create
+Paste the files into that folder
+git add.
+commit
+remote add origin
+Push the git files
+
+
